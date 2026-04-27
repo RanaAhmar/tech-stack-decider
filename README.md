@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/tech-stack-decider?style=for-the-badge)](https://github.com/RanaAhmar/tech-stack-decider/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/tech-stack-decider?style=for-the-badge)](https://github.com/RanaAhmar/tech-stack-decider/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/tech-stack-decider/blob/main/LICENSE)
+
 # tech-stack-decider
 
 CLI tool that suggests a modern tech stack based on project requirements.
@@ -38,3 +40,14 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 ---
 
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
